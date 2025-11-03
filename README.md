@@ -41,7 +41,7 @@ This project demonstrates smooth card-swiping interactions, data fetching with R
 
 ### 1️⃣ Clone the Repositories
 
-```bash
+
 # Backend (Laravel)
 git clone https://github.com/RoniPaslan/hyperhire_notion_test.git
 
