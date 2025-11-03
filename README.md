@@ -68,23 +68,43 @@ https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample
 
 ---
 
+## 🎬 Preview
+
+<p align="center">
+  🎥 <b>Watch the demo video:</b><br>
+  <a href="https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Click%20to%20Play%20Video-blue?style=for-the-badge" alt="Watch Demo"/>
+  </a>
+</p>
+
+> *(Click the button above to view the demo video on GitHub)*
+
+---
+
 ## 🖼️ App Screenshots
 
-| Splash Screen | Login | Register |
-|---------------|--------|-----------|
-| ![Splash](preview/Screenshot-splashscreen.png) | ![Login](preview/Screenshot-login.png) | ![Register](preview/Screenshot-register.png) |
+<p align="center">
+  <img src="preview/Screenshot-splashscreen.png" alt="Splash Screen" width="220" style="margin-right:10px;"/>
+  <img src="preview/Screenshot-login.png" alt="Login Screen" width="220" style="margin-right:10px;"/>
+  <img src="preview/Screenshot-register.png" alt="Register Screen" width="220"/>
+</p>
 
-| Forgot Password | Home | Like Screen |
-|------------------|-------|--------------|
-| ![Forgot Password](preview/Screenshot-forgotpassword.png) | ![Home](preview/Screenshot-home.png) | ![Like](preview/Screenshot-like.png) |
+<p align="center">
+  <img src="preview/Screenshot-forgotpassword.png" alt="Forgot Password Screen" width="220" style="margin-right:10px;"/>
+  <img src="preview/Screenshot-home.png" alt="Home Screen" width="220" style="margin-right:10px;"/>
+  <img src="preview/Screenshot-like.png" alt="Like Screen" width="220"/>
+</p>
 
 ---
 
 ## 📘 API Documentation (Swagger Preview)
 
-![Swagger](preview/Screenshot-swagger.png)
+<p align="center">
+  <img src="preview/Screenshot-swagger.png" alt="Swagger API Preview" width="700"/>
+</p>
 
 ---
+
 
 👨‍💻 Author
 Roni Paslan
