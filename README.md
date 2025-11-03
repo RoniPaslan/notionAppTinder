@@ -87,6 +87,14 @@ You can watch a short demo of the app in action below:
 
 > *(Click the link above to view the demo video on GitHub)*
 
+## 🎬 Preview Video
+
+You can watch a short demo of the app in action below:
+
+[▶️ Watch Demo Video](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample.mp4?raw=true)
+
+> *(Click the link above to view the demo video on GitHub)*
+
 ---
 
 ## 🖼️ App Screenshots
@@ -106,7 +114,7 @@ You can watch a short demo of the app in action below:
 ### Swagger API Preview
 ![Swagger API Preview](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-swagger.png?raw=true)
 
-
+---
 👨‍💻 Author
 Roni Paslan
 📧 ronipaslan4@gmail.com
