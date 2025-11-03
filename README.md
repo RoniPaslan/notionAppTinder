@@ -96,24 +96,33 @@ You can watch a short demo of the app in action below:
   </a>
 </p>
 
+## 🎬 Preview Video
+
+<p>
+  You can watch a short demo of the app in action below:<br>
+  <a href="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Recording-sample.mp4">
+    ▶️ Watch Demo Video
+  </a>
+</p>
+
 ---
 
 ## 🖼️ App Screenshots
 
 <p align="center">
-  <!-- Splash & Login -->
+  <!-- Splash & Login Screens -->
   <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-splashscreen.png" alt="Splash Screen" width="220" style="margin-right:10px;">
   <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-login.png" alt="Login Screen" width="220">
 </p>
 
 <p align="center">
-  <!-- Register & Forgot Password -->
+  <!-- Register & Forgot Password Screens -->
   <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-register.png" alt="Register Screen" width="220" style="margin-right:10px;">
   <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-forgotpassword.png" alt="Forgot Password Screen" width="220">
 </p>
 
 <p align="center">
-  <!-- Home & Like -->
+  <!-- Home & Like Screens -->
   <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-home.png" alt="Home Screen" width="220" style="margin-right:10px;">
   <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-like.png" alt="Like Screen" width="220">
 </p>
@@ -122,7 +131,6 @@ You can watch a short demo of the app in action below:
   <!-- Swagger API Preview -->
   <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-swagger.png" alt="Swagger API Preview" width="700">
 </p>
-
 
 👨‍💻 Author
 Roni Paslan
