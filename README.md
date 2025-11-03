@@ -66,11 +66,24 @@ https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample
 
 (If the video doesn’t autoplay, click the link above to open it on GitHub.)
 
+---
+
+## 🎬 Preview
+
+<p align="center">
+  🎥 <b>Watch the demo video:</b><br>
+  <a href="https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Click%20to%20Play%20Video-blue?style=for-the-badge" alt="Watch Demo"/>
+  </a>
+</p>
+
+> *(Click the button above to view the demo video on GitHub)*
+
 ## 🎬 Preview Video
 
 You can watch a short demo of the app in action below:
 
-[▶️ Watch Demo Video](preview/Recording-sample.mp4)
+[▶️ Watch Demo Video](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample.mp4?raw=true)
 
 > *(Click the link above to view the demo video on GitHub)*
 
@@ -79,22 +92,19 @@ You can watch a short demo of the app in action below:
 ## 🖼️ App Screenshots
 
 ### Splash & Login Screens
-![Splash Screen](preview/Screenshot-splashscreen.png)
-![Login Screen](preview/Screenshot-login.png)
+![Splash Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-splashscreen.png?raw=true)
+![Login Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-login.png?raw=true)
 
 ### Register & Forgot Password Screens
-![Register Screen](preview/Screenshot-register.png)
-![Forgot Password Screen](preview/Screenshot-forgotpassword.png)
+![Register Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-register.png?raw=true)
+![Forgot Password Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-forgotpassword.png?raw=true)
 
 ### Home & Like Screens
-![Home Screen](preview/Screenshot-home.png)
-![Like Screen](preview/Screenshot-like.png)
+![Home Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-home.png?raw=true)
+![Like Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-like.png?raw=true)
 
 ### Swagger API Preview
-<p align="center">
-  <img src="preview/Screenshot-swagger.png" alt="Swagger API Preview" width="700"/>
-</p>
-
+![Swagger API Preview](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-swagger.png?raw=true)
 
 
 👨‍💻 Author
