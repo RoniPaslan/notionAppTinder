@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/tinderclone.svg",
+      "sha1": "6625ada370f5c20b13e30b66d05afc2baf63e961"
+    },
+    {
+      "path": "assets/fonts/tinderclone.ttf",
+      "sha1": "42b22253a11b0c1f3dc83d7abe37a1f26a90b8fa"
+    }
+  ]
+}
