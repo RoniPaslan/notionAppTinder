@@ -91,7 +91,9 @@ You can watch a short demo of the app in action below:
 ![Like Screen](preview/Screenshot-like.png)
 
 ### Swagger API Preview
-![Swagger API Preview](preview/Screenshot-swagger.png)
+<p align="center">
+  <img src="preview/Screenshot-swagger.png" alt="Swagger API Preview" width="700"/>
+</p>
 
 
 
