@@ -66,44 +66,33 @@ https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample
 
 (If the video doesn’t autoplay, click the link above to open it on GitHub.)
 
----
+## 🎬 Preview Video
 
-## 🎬 Preview
+You can watch a short demo of the app in action below:
 
-<p align="center">
-  🎥 <b>Watch the demo video:</b><br>
-  <a href="https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample.mp4">
-    <img src="https://img.shields.io/badge/▶️%20Click%20to%20Play%20Video-blue?style=for-the-badge" alt="Watch Demo"/>
-  </a>
-</p>
+[▶️ Watch Demo Video](preview/Recording-sample.mp4)
 
-> *(Click the button above to view the demo video on GitHub)*
+> *(Click the link above to view the demo video on GitHub)*
 
 ---
 
 ## 🖼️ App Screenshots
 
-<p align="center">
-  <img src="./preview/Screenshot-splashscreen.png" alt="Splash Screen" width="220" style="margin-right:10px;"/>
-  <img src="./preview/Screenshot-login.png" alt="Login Screen" width="220" style="margin-right:10px;"/>
-  <img src="./preview/Screenshot-register.png" alt="Register Screen" width="220"/>
-</p>
+### Splash & Login Screens
+![Splash Screen](preview/Screenshot-splashscreen.png)
+![Login Screen](preview/Screenshot-login.png)
 
-<p align="center">
-  <img src="./preview/Screenshot-forgotpassword.png" alt="Forgot Password Screen" width="220" style="margin-right:10px;"/>
-  <img src="./preview/Screenshot-home.png" alt="Home Screen" width="220" style="margin-right:10px;"/>
-  <img src="./preview/Screenshot-like.png" alt="Like Screen" width="220"/>
-</p>
+### Register & Forgot Password Screens
+![Register Screen](preview/Screenshot-register.png)
+![Forgot Password Screen](preview/Screenshot-forgotpassword.png)
 
----
+### Home & Like Screens
+![Home Screen](preview/Screenshot-home.png)
+![Like Screen](preview/Screenshot-like.png)
 
-## 📘 API Documentation (Swagger Preview)
+### Swagger API Preview
+![Swagger API Preview](preview/Screenshot-swagger.png)
 
-<p align="center">
-  <img src="./preview/Screenshot-swagger.png" alt="Swagger API Preview" width="700"/>
-</p>
-
----
 
 
 👨‍💻 Author
