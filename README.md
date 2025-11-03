@@ -91,7 +91,7 @@ You can watch a short demo of the app in action below:
 
 You can watch a short demo of the app in action below:
 
-[▶️ Watch Demo Video](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Recording-sample.mp4?raw=true)
+[▶️ Watch Demo Video](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Recording-sample.mp4)
 
 > *(Click the link above to view the demo video on GitHub)*
 
@@ -100,19 +100,19 @@ You can watch a short demo of the app in action below:
 ## 🖼️ App Screenshots
 
 ### Splash & Login Screens
-![Splash Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-splashscreen.png?raw=true)
-![Login Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-login.png?raw=true)
+![Splash Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-splashscreen.png)
+![Login Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-login.png)
 
 ### Register & Forgot Password Screens
-![Register Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-register.png?raw=true)
-![Forgot Password Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-forgotpassword.png?raw=true)
+![Register Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-register.png)
+![Forgot Password Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-forgotpassword.png)
 
 ### Home & Like Screens
-![Home Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-home.png?raw=true)
-![Like Screen](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-like.png?raw=true)
+![Home Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-home.png)
+![Like Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-like.png)
 
 ### Swagger API Preview
-![Swagger API Preview](https://github.com/RoniPaslan/notionAppTinder/blob/main/preview/Screenshot-swagger.png?raw=true)
+![Swagger API Preview](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-swagger.png)
 
 ---
 👨‍💻 Author
