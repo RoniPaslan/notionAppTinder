@@ -89,32 +89,41 @@ You can watch a short demo of the app in action below:
 
 ## 🎬 Preview Video
 
-You can watch a short demo of the app in action below:
-
-[▶️ Watch Demo Video](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Recording-sample.mp4)
-
-> *(Click the link above to view the demo video on GitHub)*
+<p>
+  You can watch a short demo of the app in action below:<br>
+  <a href="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Recording-sample.mp4">
+    ▶️ Watch Demo Video
+  </a>
+</p>
 
 ---
 
 ## 🖼️ App Screenshots
 
-### Splash & Login Screens
-![Splash Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-splashscreen.png)
-![Login Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-login.png)
+<p align="center">
+  <!-- Splash & Login -->
+  <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-splashscreen.png" alt="Splash Screen" width="220" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-login.png" alt="Login Screen" width="220">
+</p>
 
-### Register & Forgot Password Screens
-![Register Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-register.png)
-![Forgot Password Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-forgotpassword.png)
+<p align="center">
+  <!-- Register & Forgot Password -->
+  <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-register.png" alt="Register Screen" width="220" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-forgotpassword.png" alt="Forgot Password Screen" width="220">
+</p>
 
-### Home & Like Screens
-![Home Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-home.png)
-![Like Screen](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-like.png)
+<p align="center">
+  <!-- Home & Like -->
+  <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-home.png" alt="Home Screen" width="220" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-like.png" alt="Like Screen" width="220">
+</p>
 
-### Swagger API Preview
-![Swagger API Preview](https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-swagger.png)
+<p align="center">
+  <!-- Swagger API Preview -->
+  <img src="https://raw.githubusercontent.com/RoniPaslan/notionAppTinder/main/preview/Screenshot-swagger.png" alt="Swagger API Preview" width="700">
+</p>
 
----
+
 👨‍💻 Author
 Roni Paslan
 📧 ronipaslan4@gmail.com
