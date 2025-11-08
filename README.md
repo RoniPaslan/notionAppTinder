@@ -43,7 +43,7 @@ This project demonstrates smooth card-swiping interactions, data fetching with R
 
 
 # Backend (Laravel)
-git clone https://github.com/RoniPaslan/hyperhire_notion_test.git
+git clone https://github.com/RoniPaslan/backend-api-notion.git
 
 # React Native App
 git clone https://github.com/RoniPaslan/notionAppTinder.git
